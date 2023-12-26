@@ -31,15 +31,12 @@ async function fetchAndWriteData(type, itemSelector, dataExtractor, filePath) {
     allData = allData.concat(pageData)
   }
 
-  // 构造写入文件的路径
   const parentDir = path.resolve(__dirname, '..')
   const fullFilePath = path.join(parentDir, 'data', filePath)
 
-  // 将数据写入指定路径的文件
   const jsonContent = JSON.stringify(allData, null, 2)
   fs.writeFileSync(fullFilePath, jsonContent)
 
-  // 打印成功消息
   console.log(`Data has been written to ${fullFilePath}`)
 }
 

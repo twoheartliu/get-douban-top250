@@ -1,4 +1,3 @@
-// src/extractors.js
 function extractBookData($, element) {
   const title = $(element).find('div.pl2 a').text().trim()
   const coverImage = $(element).find('td a.nbg img').attr('src')

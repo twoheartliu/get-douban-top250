@@ -1,4 +1,3 @@
-// src/fetchData.js
 const axios = require('axios')
 const cheerio = require('cheerio')
 
@@ -8,18 +7,16 @@ async function fetchData(
   dataExtractor
 ) {
   try {
-    // 发起HTTP请求获取HTML
     console.log('url', url)
     const response = await axios.get(url)
 
-    // 引入随机延迟
+    // random delay
     const delay =
       Math.floor(Math.random() * (delayMax - delayMin + 1)) + delayMin
     await new Promise((resolve) => setTimeout(resolve, delay))
 
     const $ = cheerio.load(response.data)
 
-    // 提取数据
     const itemData = []
 
     $(itemSelector).each((index, element) => {
