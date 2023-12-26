@@ -1,0 +1,1752 @@
+[
+  {
+    "title": "红楼梦",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1070959.jpg",
+    "authorInfo": "[清] 曹雪芹 著 / 人民文学出版社 / 1996-12 / 59.70元",
+    "rating": "9.6",
+    "quote": "都云作者痴，谁解其中味？"
+  },
+  {
+    "title": "活着",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29053580.jpg",
+    "authorInfo": "余华 / 作家出版社 / 2012-8 / 20.00元",
+    "rating": "9.4",
+    "quote": "生的苦难与伟大"
+  },
+  {
+    "title": "1984",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s4371408.jpg",
+    "authorInfo": "[英] 乔治·奥威尔 / 刘绍铭 / 北京十月文艺出版社 / 2010-4-1 / 28.00",
+    "rating": "9.4",
+    "quote": "栗树荫下，我出卖你，你出卖我"
+  },
+  {
+    "title": "哈利·波特",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s29101586.jpg",
+    "authorInfo": "J.K.罗琳 (J.K.Rowling) / 苏农 / 人民文学出版社 / 2008-12-1 / 498.00元",
+    "rating": "9.7",
+    "quote": "从9¾站台开始的旅程"
+  },
+  {
+    "title": "三体全集\n\n                \n                   : 地球往事三部曲",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s30016152.jpg",
+    "authorInfo": "刘慈欣 / 重庆出版社 / 2012-1 / 168.00元",
+    "rating": "9.5",
+    "quote": "地球往事三部曲"
+  },
+  {
+    "title": "百年孤独",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s27237850.jpg",
+    "authorInfo": "[哥伦比亚] 加西亚·马尔克斯 / 范晔 / 南海出版公司 / 2011-6 / 39.50元",
+    "rating": "9.3",
+    "quote": "魔幻现实主义文学代表作"
+  },
+  {
+    "title": "飘",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1078958.jpg",
+    "authorInfo": "[美国] 玛格丽特·米切尔 / 李美华 / 译林出版社 / 2000-9 / 40.00元",
+    "rating": "9.3",
+    "quote": "革命时期的爱情，随风而逝"
+  },
+  {
+    "title": "房思琪的初恋乐园",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s29651121.jpg",
+    "authorInfo": "林奕含 / 北京联合出版公司 / 2018-2 / 45.00元",
+    "rating": "9.2",
+    "quote": "向死而生的文学绝唱"
+  },
+  {
+    "title": "动物农场",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2347590.jpg",
+    "authorInfo": "[英] 乔治·奥威尔 / 荣如德 / 上海译文出版社 / 2007-3 / 10.00元",
+    "rating": "9.3",
+    "quote": "太阳底下并无新事"
+  },
+  {
+    "title": "三国演义（全二册）",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1076932.jpg",
+    "authorInfo": "[明] 罗贯中 / 人民文学出版社 / 1998-05 / 39.50元",
+    "rating": "9.3",
+    "quote": "是非成败转头空"
+  },
+  {
+    "title": "福尔摩斯探案全集（上中下）",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1229240.jpg",
+    "authorInfo": "[英] 阿·柯南道尔 / 丁钟华 等 / 群众出版社 / 1981-8 / 53.00元/68.00元",
+    "rating": "9.3",
+    "quote": "名侦探的代名词"
+  },
+  {
+    "title": "白夜行",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s24514468.jpg",
+    "authorInfo": "[日] 东野圭吾 / 刘姿君 / 南海出版公司 / 2013-1-1 / 39.50元",
+    "rating": "9.2",
+    "quote": "一宗离奇命案牵出跨度近20年步步惊心的故事"
+  },
+  {
+    "title": "小王子",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1103152.jpg",
+    "authorInfo": "[法] 圣埃克苏佩里 / 马振聘 / 人民文学出版社 / 2003-8 / 22.00元",
+    "rating": "9.1",
+    "quote": "献给长成了大人的孩子们"
+  },
+  {
+    "title": "安徒生童话故事集",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1034062.jpg",
+    "authorInfo": "（丹麦）安徒生 / 叶君健 / 人民文学出版社 / 1997-08 / 25.00元",
+    "rating": "9.2",
+    "quote": "为了争取未来的一代"
+  },
+  {
+    "title": "撒哈拉的故事",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1369343.jpg",
+    "authorInfo": "三毛 / 哈尔滨出版社 / 2003-8 / 15.80元",
+    "rating": "9.2",
+    "quote": "游荡的自由灵魂"
+  },
+  {
+    "title": "天龙八部",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s26018275.jpg",
+    "authorInfo": "金庸 / 生活·读书·新知三联书店 / 1994-5 / 96.00元",
+    "rating": "9.2",
+    "quote": "有情皆孽，无人不冤"
+  },
+  {
+    "title": "呐喊",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s34099286.jpg",
+    "authorInfo": "鲁迅 / 人民文学出版社 / 1973-3 / 0.36元",
+    "rating": "9.2",
+    "quote": "新文学的第一声呐喊"
+  },
+  {
+    "title": "杀死一只知更鸟",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s23128183.jpg",
+    "authorInfo": "[美] 哈珀·李 / 高红梅 / 译林出版社 / 2012-9 / 32.00元",
+    "rating": "9.2",
+    "quote": "有一种东西不能遵循从众原则，那就是——人的良心"
+  },
+  {
+    "title": "悉达多\n\n                \n                   : 一首印度的诗",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29396368.jpg",
+    "authorInfo": "[德] 赫尔曼·黑塞 / 姜乙 / 天津人民出版社 / 2017-1 / 32.00元",
+    "rating": "9.3",
+    "quote": ""
+  },
+  {
+    "title": "明朝那些事儿（1-9）\n\n                \n                   : 限量版",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s3745215.jpg",
+    "authorInfo": "当年明月 / 中国海关出版社 / 2009-4 / 358.20元",
+    "rating": "9.2",
+    "quote": "不拘一格的历史书写"
+  },
+  {
+    "title": "邓小平时代",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s24516687.jpg",
+    "authorInfo": "【美】傅高义 (Ezra.F.Vogel) / 冯克利 / 生活·读书·新知三联书店 / 2013-1-18 / 88.00元",
+    "rating": "9.3",
+    "quote": "个人命运背后的历史变局"
+  },
+  {
+    "title": "失踪的孩子\n\n                \n                   : 那不勒斯四部曲4",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29799269.jpg",
+    "authorInfo": "[意] 埃莱娜·费兰特 / 陈英 / 人民文学出版社 / 2018-7 / 62.00元",
+    "rating": "9.2",
+    "quote": "我的整个生命，只是一场为了提升社会地位的低俗斗争。"
+  },
+  {
+    "title": "新名字的故事\n\n                \n                   : 那不勒斯四部曲2",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s29376146.jpg",
+    "authorInfo": "[意] 埃莱娜·费兰特 / 陈英 / 人民文学出版社 / 2017-4 / 59.00元",
+    "rating": "9.2",
+    "quote": "探索青年时代的激情、困惑、挣扎、背叛和失去"
+  },
+  {
+    "title": "沉默的大多数\n\n                \n                   : 王小波杂文随笔全编",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1447349.jpg",
+    "authorInfo": "王小波 / 中国青年出版社 / 1997-10 / 27.00元",
+    "rating": "9.1",
+    "quote": "沉默是沉默者的通行证"
+  },
+  {
+    "title": "野草",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s34099301.jpg",
+    "authorInfo": "鲁迅 / 人民文学出版社 / 1973-3 / 0.20元",
+    "rating": "9.5",
+    "quote": "我以这一丛野草，在明与暗，生与死，过去与未来之际，献于友与仇，人与兽，爱者与不爱者之前作证。"
+  },
+  {
+    "title": "中国历代政治得失",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1319205.jpg",
+    "authorInfo": "钱穆 / 生活·读书·新知三联书店 / 2001 / 12.00元",
+    "rating": "9.2",
+    "quote": "一部简明的“中国政治制度史”"
+  },
+  {
+    "title": "局外人",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4468484.jpg",
+    "authorInfo": "[法] 阿尔贝·加缪 / 柳鸣九 / 上海译文出版社 / 2010-8 / 22.00元",
+    "rating": "9.1",
+    "quote": "人生在世，永远也不该演戏作假"
+  },
+  {
+    "title": "人类简史\n\n                \n                   : 从动物到上帝",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s27814883.jpg",
+    "authorInfo": "[以色列] 尤瓦尔·赫拉利 / 林俊宏 / 中信出版社 / 2014-11 / 68.00元",
+    "rating": "9.1",
+    "quote": "跟着人类一同走过十万年"
+  },
+  {
+    "title": "白鹿原",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s28111905.jpg",
+    "authorInfo": "陈忠实 / 人民文学出版社 / 2012-9 / 39.00元",
+    "rating": "9.2",
+    "quote": "一轴关于我们民族灵魂的现实主义画卷"
+  },
+  {
+    "title": "平凡的世界（全三部）",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1144911.jpg",
+    "authorInfo": "路遥 / 人民文学出版社 / 2005-1 / 64.00元",
+    "rating": "9.0",
+    "quote": "中国当代城乡生活全景"
+  },
+  {
+    "title": "乡土中国",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1762210.jpg",
+    "authorInfo": "费孝通 / 上海人民出版社 / 2006-04-01 / 38.00",
+    "rating": "9.2",
+    "quote": "中国乡土社会传统文化和社会结构理论研究代表作"
+  },
+  {
+    "title": "围城",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1070222.jpg",
+    "authorInfo": "钱锺书 / 人民文学出版社 / 1991-2 / 19.00",
+    "rating": "9.0",
+    "quote": "幽默的语言和对生活深刻的观察"
+  },
+  {
+    "title": "笑傲江湖（全四册）",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2157335.jpg",
+    "authorInfo": "金庸 / 生活·读书·新知三联书店 / 1994-5 / 76.80元",
+    "rating": "9.1",
+    "quote": "欲练此功，必先自宫"
+  },
+  {
+    "title": "彷徨",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s34099293.jpg",
+    "authorInfo": "鲁迅 / 人民文学出版社 / 1973-3 / 0.37元",
+    "rating": "9.3",
+    "quote": "路漫漫其修远兮，吾将上下而求索"
+  },
+  {
+    "title": "罗杰疑案\n\n                \n                   : 阿加莎·克里斯蒂侦探作品集02",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s25814002.jpg",
+    "authorInfo": "[英] 阿加莎·克里斯蒂 / 常禾 / 新星出版社 / 2013-3 / 28.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "肖申克的救赎",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4007145.jpg",
+    "authorInfo": "[美] 斯蒂芬·金 / 施寄青 / 人民文学出版社 / 2006-7 / 29.90元",
+    "rating": "9.1",
+    "quote": "豆瓣电影Top1原著"
+  },
+  {
+    "title": "我与地坛\n\n                \n                   : 史铁生代表作",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1151479.jpg",
+    "authorInfo": "史铁生 / 春风文艺出版社 / 2002-5 / 25.00元",
+    "rating": "9.2",
+    "quote": "这是你的罪孽与福祉"
+  },
+  {
+    "title": "献给阿尔吉侬的花束",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s28050760.jpg",
+    "authorInfo": "[美] 丹尼尔·凯斯 / 陈澄和 / 广西师范大学出版社 / 2015-4 / 36.00元",
+    "rating": "9.1",
+    "quote": "当声称能改造智能的科学实验选中心智障碍主角"
+  },
+  {
+    "title": "许三观卖血记",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s24575140.jpg",
+    "authorInfo": "余华 / 作家出版社 / 2012-9 / 24.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "东方快车谋杀案",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1765799.jpg",
+    "authorInfo": "[英] 阿加莎·克里斯蒂 / 陈尧光 / 人民文学出版社 / 2006-5 / 18.00元",
+    "rating": "9.1",
+    "quote": "谋杀诡计惊人，波洛的抉择耐人寻味"
+  },
+  {
+    "title": "霍乱时期的爱情",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s11284102.jpg",
+    "authorInfo": "[哥伦比亚] 加西亚·马尔克斯 / 杨玲 / 南海出版公司 / 2012-9-1 / 39.50元",
+    "rating": "9.0",
+    "quote": "义无反顾地直达爱情的核心"
+  },
+  {
+    "title": "基督山伯爵",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s3248016.jpg",
+    "authorInfo": "[法国] 大仲马 / 周克希 / 上海译文出版社 / 1991-12-1 / 43.90元",
+    "rating": "9.1",
+    "quote": "一个报恩复仇的故事，以法国波旁王朝和七月王朝为背景"
+  },
+  {
+    "title": "江城",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s32271204.jpg",
+    "authorInfo": "[美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2012-1 / 36.00元",
+    "rating": "9.1",
+    "quote": "外国人眼中的涪陵"
+  },
+  {
+    "title": "卡拉马佐夫兄弟",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s28383857.jpg",
+    "authorInfo": "陀思妥耶夫斯基 (Ф.М.Достоевский) / 荣如德 / 上海译文出版社 / 2015-2-1 / CNY 78.00",
+    "rating": "9.6",
+    "quote": ""
+  },
+  {
+    "title": "城南旧事\n\n                \n                   : 纪念普及版",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2654869.jpg",
+    "authorInfo": "林海音 文 / 中国青年出版社 / 2003-7 / 16.00元",
+    "rating": "9.1",
+    "quote": "长亭外，古道边，芳草碧连天"
+  },
+  {
+    "title": "万历十五年",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1800355.jpg",
+    "authorInfo": "[美] 黄仁宇 / 生活·读书·新知三联书店 / 1997-5 / 18.00元",
+    "rating": "9.0",
+    "quote": "见微知著，历史观的颠覆"
+  },
+  {
+    "title": "故事新编",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s34099297.jpg",
+    "authorInfo": "鲁迅 / 人民文学出版社 / 1973-12-01 / 0.31 元",
+    "rating": "9.4",
+    "quote": "拾取古代传说，取一点因由，随意点染"
+  },
+  {
+    "title": "月亮和六便士",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2659208.jpg",
+    "authorInfo": "[英] 毛姆 / 傅惟慈 / 上海译文出版社 / 2006-8 / 15.00元",
+    "rating": "9.0",
+    "quote": "有多少人会经历顿悟，就有更少的人甘愿自我放逐"
+  },
+  {
+    "title": "朝花夕拾",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s34099290.jpg",
+    "authorInfo": "鲁迅 / 人民文学出版社 / 1973-4 / 0.25元",
+    "rating": "9.1",
+    "quote": "在纷扰中寻出一点闲静"
+  },
+  {
+    "title": "艺术的故事",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s3219163.jpg",
+    "authorInfo": "[英] 贡布里希 (Sir E.H.Gombrich) / 范景中 / 广西美术出版社 / 2008-04 / 280.00",
+    "rating": "9.6",
+    "quote": "从最早的洞窟绘画到当今的实验艺术"
+  },
+  {
+    "title": "射雕英雄传",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2157336.jpg",
+    "authorInfo": "金庸 / 生活·读书·新知三联书店 / 1999-04 / 47.00元",
+    "rating": "9.1",
+    "quote": "侠之大者，为国为民"
+  },
+  {
+    "title": "追风筝的人",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1727290.jpg",
+    "authorInfo": "[美] 卡勒德·胡赛尼 / 李继宏 / 上海人民出版社 / 2006-5 / 29.00元",
+    "rating": "8.9",
+    "quote": "为你，千千万万遍"
+  },
+  {
+    "title": "厌女\n\n                \n                   : 日本的女性嫌恶",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33797467.jpg",
+    "authorInfo": "上野千鹤子 / 王兰 / 上海三联书店 / 2015-1 / 28.00",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "刀锋",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s2347562.jpg",
+    "authorInfo": "[英]毛姆 / 周煦良 / 上海译文出版社 / 2007-3 / 18.00元",
+    "rating": "9.0",
+    "quote": "一把刀的锋刃不容易越过；因此智者说得救之道是困难的"
+  },
+  {
+    "title": "寻路中国\n\n                \n                   : 从乡村到工厂的自驾之旅",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s32271209.jpg",
+    "authorInfo": "[美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2011-1 / 33.00元",
+    "rating": "9.0",
+    "quote": "《纽约客》驻北京记者驾车漫游中国大陆的经历"
+  },
+  {
+    "title": "置身事内\n\n                \n                   : 中国政府与经济发展",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33956867.jpg",
+    "authorInfo": "兰小欢 / 上海人民出版社 / 2021-8 / 65.00元",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "秋园",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33640730.jpg",
+    "authorInfo": "杨本芬 / 北京联合出版公司 / 2020-6 / 38.00元",
+    "rating": "9.0",
+    "quote": ""
+  },
+  {
+    "title": "树上的男爵",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s8968135.jpg",
+    "authorInfo": "[意大利]伊塔洛·卡尔维诺 / 吴正仪 / 译林出版社 / 2012-4-1 / 30.00元",
+    "rating": "9.1",
+    "quote": "是不是真的只有先与人疏离，才能最终与他们在一起？"
+  },
+  {
+    "title": "无人生还",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2962510.jpg",
+    "authorInfo": "[英] 阿加莎・克里斯蒂 / 祁阿红 / 人民文学出版社 / 2008-3 / 19.00",
+    "rating": "9.0",
+    "quote": "童谣杀人案"
+  },
+  {
+    "title": "格林童话全集",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1043975.jpg",
+    "authorInfo": "[德国]格林兄弟 / 魏以新 / 人民文学出版社 / 1994-11 / 21.45元",
+    "rating": "9.0",
+    "quote": "一本有教育意义的书"
+  },
+  {
+    "title": "嫌疑人X的献身",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s3254244.jpg",
+    "authorInfo": "[日] 东野圭吾 / 刘子倩 / 南海出版公司 / 2008-9 / 28.00",
+    "rating": "8.9",
+    "quote": "数学好是一种极致的浪漫"
+  },
+  {
+    "title": "中国少年儿童百科全书（全四册）",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s34069455.jpg",
+    "authorInfo": "林崇德 主编 / 浙江教育出版社 / 1991-4 / 168.00元",
+    "rating": "9.4",
+    "quote": ""
+  },
+  {
+    "title": "鼠疫",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s27003191.jpg",
+    "authorInfo": "[法] 阿尔贝·加缪 / 刘方 / 上海译文出版社 / 2013-8 / 34.00元",
+    "rating": "9.1",
+    "quote": "用别样的监禁生活再现某种监禁生活，与用不存在的事表现真事同等合理"
+  },
+  {
+    "title": "黄金时代\n\n                \n                   : 时代三部曲",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1076372.jpg",
+    "authorInfo": "王小波 / 花城出版社 / 1999-3 / 19.00元",
+    "rating": "8.9",
+    "quote": "我想爱，想吃，还想在一瞬间变成天上半明半暗的云"
+  },
+  {
+    "title": "西游记（全二册）",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1627374.jpg",
+    "authorInfo": "吴承恩 / 黄肃秋 注释 / 人民文学出版社 / 2004-8 / 47.20元",
+    "rating": "9.1",
+    "quote": "神魔皆有人情，精魅亦通世故"
+  },
+  {
+    "title": "傲慢与偏见",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s4250062.jpg",
+    "authorInfo": "[英] 奥斯丁 / 张玲 / 人民文学出版社 / 1993-7 / 13.00元",
+    "rating": "8.9",
+    "quote": "所有现代言情小说的母体"
+  },
+  {
+    "title": "史记（全十册）\n\n                \n                   : （全十册）",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1953384.jpg",
+    "authorInfo": "司马迁 / （索隐）司马贞，（正义）张守节 / 中华书局 / 1982-11 / 125.00",
+    "rating": "9.5",
+    "quote": "史家之绝唱，无韵之离骚"
+  },
+  {
+    "title": "始于极限\n\n                \n                   : 女性主义往复书简",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s34300626.jpg",
+    "authorInfo": "[日] 上野千鹤子 / 曹逸冰 / 新星出版社 / 2022-9-20 / 59",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "悲惨世界（上中下）",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4521754.jpg",
+    "authorInfo": "[法] 雨果 / 李丹 / 人民文学出版社 / 1992-6 / 66.00元",
+    "rating": "9.1",
+    "quote": "现实主义与浪漫主义的至高杰作"
+  },
+  {
+    "title": "台北人",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4526465.jpg",
+    "authorInfo": "白先勇 / 广西师范大学出版社 / 2010-10 / 38.00元",
+    "rating": "9.0",
+    "quote": "白先勇短篇小说集"
+  },
+  {
+    "title": "诗经",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1979223.jpg",
+    "authorInfo": "孔丘 编订 / 北京出版社 / 2006-7 / 19.90元",
+    "rating": "9.5",
+    "quote": "思无邪"
+  },
+  {
+    "title": "永恒的终结\n\n                \n                   : 关于时间旅行的终极奥秘和恢宏构想",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s27409671.jpg",
+    "authorInfo": "[美] 艾萨克·阿西莫夫 / 崔正男 / 江苏凤凰文艺出版社 / 2014-9 / 32.00元",
+    "rating": "9.1",
+    "quote": "关于时间旅行的终极奥秘和恢宏构想"
+  },
+  {
+    "title": "神雕侠侣",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s26018916.jpg",
+    "authorInfo": "金庸 / 有1996年11月北平第4次印本 / 生活·读书·新知三联书店 / 1994-5 / 76.80元",
+    "rating": "8.9",
+    "quote": "至情至性，情大于武"
+  },
+  {
+    "title": "孽子",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s6240330.jpg",
+    "authorInfo": "白先勇 / 广西师范大学出版社 / 2010.10 / 46.00元",
+    "rating": "9.2",
+    "quote": "写给那一群， 在最深最深的黑夜里， 独自彷徨街头， 无所依归的孩子们"
+  },
+  {
+    "title": "历史深处的忧虑\n\n                \n                   : 近距离看美国之一",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1768916.jpg",
+    "authorInfo": "林达 / 生活·读书·新知三联书店 / 1997-5 / 19.00元",
+    "rating": "9.0",
+    "quote": "窥见美国社会的一扇窗"
+  },
+  {
+    "title": "可能性的艺术\n\n                \n                   : 比较政治学30讲",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s34192061.jpg",
+    "authorInfo": "刘瑜 / 广西师范大学出版社 / 2022-4 / 82.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "上帝掷骰子吗\n\n                \n                   : 量子物理史话",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1486674.jpg",
+    "authorInfo": "曹天元 / 辽宁教育出版社 / 2006-1 / 32.00元",
+    "rating": "9.2",
+    "quote": "量子物理史话"
+  },
+  {
+    "title": "一个叫欧维的男人决定去死",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29071620.jpg",
+    "authorInfo": "[瑞典] 弗雷德里克·巴克曼 / 宁蒙 / 四川文艺出版社 / 2015-12 / 35.00元",
+    "rating": "9.1",
+    "quote": "这个发生在瑞典的故事，如生命庆典般绚丽斑斓"
+  },
+  {
+    "title": "刘擎西方现代思想讲义",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s33802981.jpg",
+    "authorInfo": "刘擎 / 新星出版社 / 2021-1 / 79.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "灿烂千阳",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2651394.jpg",
+    "authorInfo": "[美] 卡勒德·胡赛尼 / 李继宏 / 上海人民出版社 / 2007-9 / 28.00元",
+    "rating": "8.9",
+    "quote": "唯有希望与爱可以驱散阴霾"
+  },
+  {
+    "title": "唐诗三百首",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1008848.jpg",
+    "authorInfo": "蘅塘退士 / 中华书局 / 1984-07-01 / 0.65",
+    "rating": "9.4",
+    "quote": "熟读唐诗三百首，不会吟诗也会吟"
+  },
+  {
+    "title": "哭泣的骆驼",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1020454.jpg",
+    "authorInfo": "三毛 / 哈尔滨出版社 / 2003-6 / 15.80元",
+    "rating": "9.0",
+    "quote": "沙漠中寻常的生与死"
+  },
+  {
+    "title": "美丽新世界",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s29477615.jpg",
+    "authorInfo": "【英】奥尔德斯·赫胥黎 / 陈超 / 上海译文出版社 / 2017-6 / 45.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "文学回忆录\n\n                \n                   : 1989—1994",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s24611679.jpg",
+    "authorInfo": "木心 口述 / 广西师范大学出版社 / 2013-1-10 / 98.00元",
+    "rating": "9.1",
+    "quote": "木心留给世界的礼物"
+  },
+  {
+    "title": "最好的告别\n\n                \n                   : 关于衰老与死亡，你必须知道的常识",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s28260907.jpg",
+    "authorInfo": "[美] 阿图·葛文德（Atul Gawande） / 王一方 主编 / 浙江人民出版社 / 2015-7-31 / 54.90元",
+    "rating": "9.0",
+    "quote": "关于衰老与死亡，你必须知道的常识"
+  },
+  {
+    "title": "窗边的小豆豆",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1067911.jpg",
+    "authorInfo": "[日] 黑柳彻子 著 / 赵玉皎 / 南海出版公司 / 2003-1 / 20.00元",
+    "rating": "8.8",
+    "quote": "真正懂孩子的教育经"
+  },
+  {
+    "title": "四世同堂",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3228699.jpg",
+    "authorInfo": "老舍 / 北京十月文艺出版社 / 2008-07 / 36.00元",
+    "rating": "9.4",
+    "quote": "北平沦陷时代广大平民的悲惨遭遇"
+  },
+  {
+    "title": "美的历程",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s3893343.jpg",
+    "authorInfo": "李泽厚 / 生活·读书·新知三联书店 / 2009-7 / 43.00元",
+    "rating": "9.2",
+    "quote": "中国美学经典之作"
+  },
+  {
+    "title": "呼兰河传\n\n                \n                   : 1947年版本・原版珍藏",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1167060.jpg",
+    "authorInfo": "萧红 / 百花文艺出版社 / 2005-01 / 19.00",
+    "rating": "9.0",
+    "quote": "萧红的童年往事"
+  },
+  {
+    "title": "人间词话",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1146614.jpg",
+    "authorInfo": "王国维 / 上海古籍出版社 / 1998-12 / 9.80元",
+    "rating": "9.0",
+    "quote": "以新眼光评旧文学"
+  },
+  {
+    "title": "道德经",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1045431.jpg",
+    "authorInfo": "黄元吉 / 陕西人民出版社 / 1996-10 / 4.50元",
+    "rating": "9.5",
+    "quote": "中国历史上首部完整的哲学著作"
+  },
+  {
+    "title": "看见",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s24514758.jpg",
+    "authorInfo": "柴静 / 广西师范大学出版社 / 2013-1-1 / 39.80元",
+    "rating": "8.8",
+    "quote": "在这里看见中国"
+  },
+  {
+    "title": "罪与罚",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1790246.jpg",
+    "authorInfo": "[俄] 陀思妥耶夫斯基 / 岳麟 / 上海译文出版社 / 2006-8 / 23.00元",
+    "rating": "9.3",
+    "quote": "描绘人内心的全部深度"
+  },
+  {
+    "title": "绝叫",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33685372.jpg",
+    "authorInfo": "[日] 叶真中显 / 林佩瑾 / 北京联合出版公司 / 2020-7 / 58.00元",
+    "rating": "8.9",
+    "quote": ""
+  },
+  {
+    "title": "冬牧场",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s8958901.jpg",
+    "authorInfo": "李娟 / 新星出版社 / 2012-6 / 29.80元",
+    "rating": "9.1",
+    "quote": "阿勒泰的精灵"
+  },
+  {
+    "title": "浪潮之巅",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s6807265.jpg",
+    "authorInfo": "吴军 / 电子工业出版社 / 2011-8 / 55.00元",
+    "rating": "9.0",
+    "quote": "了解IT领域的入门读物"
+  },
+  {
+    "title": "棋王·树王·孩子王\n\n                \n                   : 阿城文集 之一",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s28688273.jpg",
+    "authorInfo": "阿城 / 江苏凤凰文艺出版社 / 2016-3-1 / 58.00",
+    "rating": "9.3",
+    "quote": ""
+  },
+  {
+    "title": "离开的，留下的\n\n                \n                   : 那不勒斯四部曲3",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s29535271.jpg",
+    "authorInfo": "[意] 埃莱娜·费兰特 / 陈英 / 人民文学出版社 / 2017-10 / 62.00元",
+    "rating": "8.9",
+    "quote": "探索中年的虚无、困惑、野心和近乎残暴的爱"
+  },
+  {
+    "title": "爱你就像爱生命",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s4661043.jpg",
+    "authorInfo": "王小波 / 上海锦绣文章出版社 / 2008-5 / 18.00元",
+    "rating": "8.8",
+    "quote": "王小波与李银河的两地书"
+  },
+  {
+    "title": "也许你该找个人聊聊",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33944153.jpg",
+    "authorInfo": "[美]洛莉·戈特利布 / 果麦文化/上海文化出版社 / 2021-7-28 / 68.00元",
+    "rating": "9.0",
+    "quote": ""
+  },
+  {
+    "title": "太白金星有点烦",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s34544956.jpg",
+    "authorInfo": "马伯庸 / 湖南文艺出版社 / 2023-6 / 45.00",
+    "rating": "9.0",
+    "quote": ""
+  },
+  {
+    "title": "我们仨",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1015872.jpg",
+    "authorInfo": "杨绛 / 生活·读书·新知三联书店 / 2003-7 / 18.80元",
+    "rating": "8.8",
+    "quote": "家庭生活回忆录"
+  },
+  {
+    "title": "巨人的陨落\n\n                \n                   : 世纪三部曲",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s28668834.jpg",
+    "authorInfo": "[英] 肯·福莱特 / 于大卫 / 江苏凤凰文艺出版社 / 2016-5-1 / CNY 129.80",
+    "rating": "8.9",
+    "quote": "五个家族，一场战争"
+  },
+  {
+    "title": "失明症漫记",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s27217828.jpg",
+    "authorInfo": "[葡] 若泽·萨拉马戈 / 范维信 / 南海出版公司 / 2014-2 / 29.50",
+    "rating": "9.1",
+    "quote": "失明症迅速蔓延，整个城市陷入一场空前的灾难"
+  },
+  {
+    "title": "毛泽东选集 第一卷",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1106951.jpg",
+    "authorInfo": "毛泽东 / 人民出版社 / 1991-6 / 40.00元",
+    "rating": "9.6",
+    "quote": ""
+  },
+  {
+    "title": "叫魂\n\n                \n                   : 1768年中国妖术大恐慌",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s9015481.jpg",
+    "authorInfo": "[美] 孔飞力 / 陈兼 / 生活·读书·新知三联书店 上海三联书店 / 2012-5 / 38.00元",
+    "rating": "9.1",
+    "quote": "1768年中国妖术大恐慌"
+  },
+  {
+    "title": "看不见的城市",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s8972088.jpg",
+    "authorInfo": "[意] 伊塔洛·卡尔维诺 / 张密 / 译林出版社 / 2012-4 / 25.00元",
+    "rating": "9.0",
+    "quote": ""
+  },
+  {
+    "title": "人生的枷锁",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3983958.jpg",
+    "authorInfo": "[英] 毛姆 / 张柏然 / 上海译文出版社 / 2007-3 / 32.00元",
+    "rating": "9.1",
+    "quote": "在混沌纷扰的生活漩流中，寻求人生的真谛"
+  },
+  {
+    "title": "人生的智慧",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4619775.jpg",
+    "authorInfo": "(德)叔本华 / 韦启昌 / 上海人民出版社 / 2008-10-01 / 28.00元",
+    "rating": "9.2",
+    "quote": "对世俗、实用问题深刻而透彻的讨论"
+  },
+  {
+    "title": "教父",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2832939.jpg",
+    "authorInfo": "[美]马里奥·普佐 / 周汉林 / 译林出版社 / 1997-8 / 23.30元",
+    "rating": "9.0",
+    "quote": "“教父三部曲”电影原著"
+  },
+  {
+    "title": "海子的诗",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1067491.jpg",
+    "authorInfo": "海子 / 人民文学出版社 / 1999-04 / 15.40",
+    "rating": "9.0",
+    "quote": ""
+  },
+  {
+    "title": "飞鸟集",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1044902.jpg",
+    "authorInfo": "[印] 罗宾德拉纳德·泰戈尔 / 徐翰林 / 哈尔滨出版社 / 2004-6 / 16.80元",
+    "rating": "8.9",
+    "quote": "一个淡泊清透的世界"
+  },
+  {
+    "title": "桶川跟踪狂杀人事件",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s34072986.jpg",
+    "authorInfo": "[日] 清水洁 / 王华懋 / 四川人民出版社 / 2021-2 / 45.00元",
+    "rating": "9.0",
+    "quote": ""
+  },
+  {
+    "title": "受戒\n\n                \n                   : 汪曾祺自选集",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s3628082.jpg",
+    "authorInfo": "汪曾祺 / 漓江出版社 / 1987-10 / 3.95元",
+    "rating": "9.4",
+    "quote": "江南乡镇民间生活，健康淳朴的人性"
+  },
+  {
+    "title": "鹿鼎记",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3134040.jpg",
+    "authorInfo": "金庸 / 广州出版社 花城出版社 / 2008-3 / 108.00元",
+    "rating": "8.9",
+    "quote": "武侠的解构，流氓的狂欢"
+  },
+  {
+    "title": "斯通纳",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s28332051.jpg",
+    "authorInfo": "[美] 约翰·威廉斯 / 杨向荣 / 上海人民出版社 / 2016-1 / 49.00元",
+    "rating": "8.8",
+    "quote": "即使不能拥有完美的生活，所幸追求过完整的自我"
+  },
+  {
+    "title": "少年凯歌",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1077996.jpg",
+    "authorInfo": "人民文学出版社 / 2001-6 / 10.00元",
+    "rating": "9.4",
+    "quote": ""
+  },
+  {
+    "title": "梦里花落知多少",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s2393243.jpg",
+    "authorInfo": "三毛 / 北京十月文艺出版社 / 2007-6 / 28.00元",
+    "rating": "8.8",
+    "quote": "哀而不伤"
+  },
+  {
+    "title": "边城",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1595557.jpg",
+    "authorInfo": "沈从文 / 北岳文艺出版社 / 2002-4 / 12.00元",
+    "rating": "8.7",
+    "quote": "一切充满了善，然而到处是不凑巧"
+  },
+  {
+    "title": "茶馆",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33516550.jpg",
+    "authorInfo": "老舍 / 人民文学出版社 / 2002-1 / 9.80元",
+    "rating": "9.2",
+    "quote": "清末、民初、抗战胜利以后三个历史时期的北京生活风貌"
+  },
+  {
+    "title": "陆犯焉识",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s6987353.jpg",
+    "authorInfo": "严歌苓 / 作家出版社 / 2011-10 / 35.00元",
+    "rating": "8.9",
+    "quote": "翻手为苍凉，覆手为繁华"
+  },
+  {
+    "title": "十万个为什么",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2619779.jpg",
+    "authorInfo": "少年儿童出版社 / 1962 / 30.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "时间简史\n\n                \n                   : 插图本",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1914861.jpg",
+    "authorInfo": "[英] 史蒂芬·霍金 / 许明贤 / 湖南科学技术出版社 / 2010-4 / 45.00元",
+    "rating": "8.9",
+    "quote": "探索时间和空间的核心秘密"
+  },
+  {
+    "title": "克莱因壶",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33317677.jpg",
+    "authorInfo": "[日] 冈岛二人 / 张舟 / 化学工业出版社 / 2019-9 / 48.00元",
+    "rating": "8.9",
+    "quote": ""
+  },
+  {
+    "title": "这些人，那些事",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s6828981.jpg",
+    "authorInfo": "吴念真 / 译林出版社 / 2011-9 / 28.00元",
+    "rating": "8.8",
+    "quote": "平淡叙述下的惊心动魄"
+  },
+  {
+    "title": "遥远的向日葵地",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29878650.jpg",
+    "authorInfo": "李娟 / 花城出版社 / 2017-11 / 38.00元",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "金色梦乡",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4444885.jpg",
+    "authorInfo": "[日] 伊坂幸太郎 / 李彦桦 / 译林出版社 / 2010-9 / 35.00元",
+    "rating": "9.0",
+    "quote": "伊坂幸太郎代表作"
+  },
+  {
+    "title": "面纱",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s28561075.jpg",
+    "authorInfo": "[英] 威廉·萨默塞特·毛姆 / 于大卫 / 江西人民出版社 / 2016-4-1 / 39.8元",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "人间草木",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1201610.jpg",
+    "authorInfo": "汪曾祺 / 江苏文艺出版社 / 2005-01 / 20.00元",
+    "rating": "9.2",
+    "quote": "我就是要这样香，香得痛痛快快"
+  },
+  {
+    "title": "小径分岔的花园",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29746559.jpg",
+    "authorInfo": "[阿根廷] 豪·路·博尔赫斯 / 王永年 / 上海译文出版社 / 2015-7 / 23.00",
+    "rating": "8.9",
+    "quote": "一个谜语，谜底正是时间"
+  },
+  {
+    "title": "你当像鸟飞往你的山",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s33492346.jpg",
+    "authorInfo": "塔拉·韦斯特弗 / 任爱红 / 南海出版公司 / 2019-10 / 59.00元",
+    "rating": "8.7",
+    "quote": "我来自一个极少有人能想象的家庭，教育给了我新世界"
+  },
+  {
+    "title": "王尔德童话",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2019056.jpg",
+    "authorInfo": "[英] 王尔德 / 王林 / 译林出版社 / 2003-6 / 6.00元",
+    "rating": "9.1",
+    "quote": "一颗纯美纯善、永难泯灭的童心"
+  },
+  {
+    "title": "13 67\n\n                \n                   : 陳浩基作品2",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33699260.jpg",
+    "authorInfo": "陳浩基 / 皇冠文化出版有限公司 / 2014-6-9 / NT$350",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "昨日的世界\n\n                \n                   : 一个欧洲人的回忆",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1121598.jpg",
+    "authorInfo": "[奥] 斯蒂芬·茨威格 / 舒昌善 / 广西师范大学出版社 / 2004-5-1 / 32.00元",
+    "rating": "9.3",
+    "quote": "一个高贵而残破的昨日镜像"
+  },
+  {
+    "title": "绿毛水怪",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s3675595.jpg",
+    "authorInfo": "王小波 / 时代文艺出版社 / 2009-1 / 30.00元",
+    "rating": "9.1",
+    "quote": "我们好象在池塘的水底，从一个月亮走向另一个月亮"
+  },
+  {
+    "title": "故事\n\n                \n                   : 材质·结构·风格和银幕剧作的原理",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s27598249.jpg",
+    "authorInfo": "[美] 罗伯特·麦基 / 周铁东 / 天津人民出版社 / 2014-9 / 68.00元",
+    "rating": "9.2",
+    "quote": "材质、结构、风格和银幕剧作的原理"
+  },
+  {
+    "title": "一间只属于自己的房间",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33503989.jpg",
+    "authorInfo": "[英] 弗吉尼亚·伍尔夫 / 周颖琪 / 天津人民出版社 / 2019-10 / 45.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "海的女儿",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4133656.jpg",
+    "authorInfo": "安徒生 / 叶君健 / 上海译文出版社 / 1978年6月 / 0.43",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "经济学原理（上下）",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1785715.jpg",
+    "authorInfo": "[美] 曼昆 / 梁小民 / 机械工业出版社 / 2003-8 / 88.00元",
+    "rating": "9.1",
+    "quote": "经济学家们的世界观"
+  },
+  {
+    "title": "阿勒泰的角落",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s6185540.jpg",
+    "authorInfo": "李娟 / 万卷出版公司 / 2010-6 / 25.00元",
+    "rating": "9.1",
+    "quote": "白雪和阳光，青草和白桦林"
+  },
+  {
+    "title": "我的天才女友\n\n                \n                   : 那不勒斯四部曲1",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s29164777.jpg",
+    "authorInfo": "[意] 埃莱娜·费兰特 / 陈英 / 人民文学出版社 / 2017-1 / 42.00元",
+    "rating": "8.7",
+    "quote": "“那不勒斯四部曲”第一部，两个女人，50年的友谊和战争"
+  },
+  {
+    "title": "西线无战事",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33779178.jpg",
+    "authorInfo": "[德] 埃里希·玛丽亚·雷马克 / 姜乙 / 上海文艺出版社 / 2021-1 / 49",
+    "rating": "9.5",
+    "quote": ""
+  },
+  {
+    "title": "國史大綱（上下）",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s6795555.jpg",
+    "authorInfo": "錢穆 / 商务印书馆 / 2013-8 / 76.00元",
+    "rating": "9.4",
+    "quote": "钱穆中国通史"
+  },
+  {
+    "title": "一句顶一万句",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s6916838.jpg",
+    "authorInfo": "刘震云 / 长江文艺出版社 / 2009-3 / 29.80",
+    "rating": "8.8",
+    "quote": "一句胜过千年"
+  },
+  {
+    "title": "一个陌生女人的来信",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2611329.jpg",
+    "authorInfo": "[奥] 斯蒂芬·茨威格 / 张玉书 / 上海译文出版社 / 2007-7 / 20.00元",
+    "rating": "8.7",
+    "quote": "暗恋的极致"
+  },
+  {
+    "title": "长日将尽",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29738720.jpg",
+    "authorInfo": "[英] 石黑一雄 / 冯涛 / 上海译文出版社 / 2018-5 / 48",
+    "rating": "8.9",
+    "quote": ""
+  },
+  {
+    "title": "鹿川有许多粪",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33968312.jpg",
+    "authorInfo": "李沧东 / 春喜 / 武汉大学出版社 / 2021-8 / 58.00元",
+    "rating": "8.9",
+    "quote": ""
+  },
+  {
+    "title": "苏菲的世界",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3042670.jpg",
+    "authorInfo": "[挪] 乔斯坦·贾德 / 萧宝森 / 作家出版社 / 2007-10 / 26.00元",
+    "rating": "8.8",
+    "quote": "哲学启蒙书"
+  },
+  {
+    "title": "德米安\n\n                \n                   : 埃米尔·辛克莱的彷徨少年时",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s5988251.jpg",
+    "authorInfo": "[德] 赫尔曼·黑塞 / 丁君君 / 上海人民出版社 / 2009-3 / 25.00元",
+    "rating": "8.9",
+    "quote": "少年辛克莱寻找通向自身之路的艰辛历程"
+  },
+  {
+    "title": "万水千山走遍",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1099483.jpg",
+    "authorInfo": "三毛 / 哈尔滨出版社 / 2003-08 / 13.80",
+    "rating": "8.8",
+    "quote": "从遥远的撒哈拉到敦煌戈壁"
+  },
+  {
+    "title": "史蒂夫·乔布斯传",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s6974202.jpg",
+    "authorInfo": "[美] 沃尔特·艾萨克森 / 管延圻 / 中信出版社 / 2011-10-24 / 68.00元",
+    "rating": "8.8",
+    "quote": "完美主义者的最高形态"
+  },
+  {
+    "title": "温柔的夜",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2391798.jpg",
+    "authorInfo": "三毛 / 北京十月文艺出版社 / 2007-5 / 28.00元",
+    "rating": "9.1",
+    "quote": "三毛在加纳利群岛的生活"
+  },
+  {
+    "title": "筚路维艰\n\n                \n                   : 中国社会主义路径的五次选择",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33986279.jpg",
+    "authorInfo": "萧冬连 / 社会科学文献出版社 / 2014-10-1 / 45.00元",
+    "rating": "9.5",
+    "quote": ""
+  },
+  {
+    "title": "2001：太空漫游\n\n                \n                   : 《太空漫游四部曲》第1部",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s32330891.jpg",
+    "authorInfo": "[英] 阿瑟·克拉克 / 郝明义 / 上海文艺出版社 / 2019-5-10 / 62.00元",
+    "rating": "9.3",
+    "quote": ""
+  },
+  {
+    "title": "全球通史(上)\n\n                \n                   : 从史前史到21世纪",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s28330151.jpg",
+    "authorInfo": "[美]斯塔夫里阿诺斯 / 吴象婴 / 北京大学出版社 / 2006-1-10 / 42.00",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "安娜·卡列尼娜",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s5763939.jpg",
+    "authorInfo": "[俄] 列夫·托尔斯泰 / 草婴 / 上海文艺出版社 / 2007-8 / 37.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "强风吹拂",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s27914268.jpg",
+    "authorInfo": "三浦紫苑 / 林佩瑾 / 广西师范大学出版社 / 2015-1-1 / 39.00元",
+    "rating": "9.0",
+    "quote": "明明这么痛苦，这么难过，为什么就是不能放弃跑步？"
+  },
+  {
+    "title": "爱的艺术",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2990934.jpg",
+    "authorInfo": "[美] 艾·弗洛姆 / 李健鸣 / 上海译文出版社 / 2008-4 / 15.00元",
+    "rating": "8.8",
+    "quote": "谦恭地、勇敢地、真诚地和有纪律地爱他人"
+  },
+  {
+    "title": "流俗地",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33884123.jpg",
+    "authorInfo": "【马来西亚】黎紫书 / 北京十月文艺出版社 / 2021-4-1 / 55",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "不能承受的生命之轻\n\n                \n                   : 中文全译本百万纪念版",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s4421443.jpg",
+    "authorInfo": "米兰·昆德拉 / 许钧 / 上海译文出版社 / 2010-8 / 29.00元",
+    "rating": "8.8",
+    "quote": ""
+  },
+  {
+    "title": "霸王别姬",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s24964086.jpg",
+    "authorInfo": "李碧华 / 人民文学出版社 / 1999-1 / 10.20元",
+    "rating": "9.1",
+    "quote": "人间，只是抹去了脂粉的脸"
+  },
+  {
+    "title": "球状闪电",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s26040205.jpg",
+    "authorInfo": "刘慈欣 / 四川科学技术出版社 / 2005-6 / 22.00元",
+    "rating": "8.7",
+    "quote": "量子之外，没有真相"
+  },
+  {
+    "title": "亮剑",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s9950828.jpg",
+    "authorInfo": "都梁 / 解放军文艺出版社 / 2005-3 / 28.00元",
+    "rating": "9.0",
+    "quote": "面对强大的对手，明知不敌，也要毅然亮剑"
+  },
+  {
+    "title": "平面国\n\n                \n                   : 多维空间传奇往事",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33710398.jpg",
+    "authorInfo": "埃德温·A·艾勃特 / 鲁冬旭 / 上海文化出版社 / 2020-8 / 39.80元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "草房子",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2652540.jpg",
+    "authorInfo": "曹文轩 / 江苏少年儿童出版社 / 2009-6 / 18.00元",
+    "rating": "9.0",
+    "quote": "男孩桑桑刻骨铭心、终身难忘的六年小学生活"
+  },
+  {
+    "title": "恶意",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s29827014.jpg",
+    "authorInfo": "[日] 东野圭吾 / 娄美莲 / 南海出版公司 / 2016-11 / 39.50元",
+    "rating": "8.7",
+    "quote": ""
+  },
+  {
+    "title": "我的阿勒泰",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s6180859.jpg",
+    "authorInfo": "李娟 / 云南人民出版社 / 2010-7 / 22.00元",
+    "rating": "8.9",
+    "quote": "描写疆北阿勒泰地区生活和风情的原生态散文集"
+  },
+  {
+    "title": "我不知道该说什么，关于死亡还是爱情\n\n                \n                   : 来自切尔诺贝利的声音",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s28313152.jpg",
+    "authorInfo": "[白俄] S·A·阿列克谢耶维奇 / 方祖芳 / 花城出版社 / 2014-6-15 / 34.80元",
+    "rating": "9.1",
+    "quote": "真实记录切尔诺贝利核灾难事件"
+  },
+  {
+    "title": "地下室手记",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33638812.jpg",
+    "authorInfo": "(俄罗斯) 陀思妥耶夫斯基 / 曾思艺 / 浙江文艺出版社 / 2020-5 / 39.8",
+    "rating": "9.3",
+    "quote": ""
+  },
+  {
+    "title": "古文观止",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1325863.jpg",
+    "authorInfo": "吴楚材 / 中华书局 / 1987-1-1 / 21.00元",
+    "rating": "9.1",
+    "quote": "收录自先秦至明末的散文二百二十二篇"
+  },
+  {
+    "title": "檀香刑",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s33562530.jpg",
+    "authorInfo": "莫言 / 浙江文艺出版社 / 2017-1 / 56.00元",
+    "rating": "9.3",
+    "quote": ""
+  },
+  {
+    "title": "南京大屠杀\n\n                \n                   : 第二次世界大战中被遗忘的大浩劫",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s28297426.jpg",
+    "authorInfo": "[美]张纯如（Iris Chang） / 谭春霞 / 中信出版社 / 2015-8 / 49.00元",
+    "rating": "9.7",
+    "quote": ""
+  },
+  {
+    "title": "半生缘\n\n                \n                   : 张爱玲全集04——小说",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s10199588.jpg",
+    "authorInfo": "张爱玲 / 北京十月文艺出版社 / 2012-6-1 / 29.60元",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "额尔古纳河右岸",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s34734949.jpg",
+    "authorInfo": "迟子建 / 人民文学出版社 / 2019-6-1 / 32.00元",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "社会心理学\n\n                \n                   : （第8版）",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1670932.jpg",
+    "authorInfo": "[美] 戴维·迈尔斯 / 张智勇 / 人民邮电出版社 / 2006-1 / 68.00元",
+    "rating": "9.0",
+    "quote": "人们是如何思索、影响他人并与他人建立联系的"
+  },
+  {
+    "title": "麦琪的礼物\n\n                \n                   : 欧·亨利短篇小说经典",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1137441.jpg",
+    "authorInfo": "[美] 欧·亨利 / 张经浩 / 上海社会科学院出版社 / 2003-7 / 25.00元",
+    "rating": "8.7",
+    "quote": "日常的奇迹"
+  },
+  {
+    "title": "激荡三十年（上）\n\n                \n                   : 中国企业1978-2008",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s10431840.jpg",
+    "authorInfo": "吴晓波 / 中信出版社 浙江人民出版社 / 2007-1 / 35.00",
+    "rating": "8.8",
+    "quote": "这是一个最好的时代，也是一个最坏的时代"
+  },
+  {
+    "title": "倾城之恋",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s4638950.jpg",
+    "authorInfo": "张爱玲 / 北京十月文艺出版社 / 2006-12 / 29.80元",
+    "rating": "8.7",
+    "quote": "“一对平凡的夫妻”之间的“一点真心”"
+  },
+  {
+    "title": "我也有一个梦想\n\n                \n                   : 近距离看美国之三",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2170315.jpg",
+    "authorInfo": "林达 / 生活·读书·新知三联书店 / 2004-08 / 25.00元",
+    "rating": "9.0",
+    "quote": "在法治国家里，民众怎样运用法律"
+  },
+  {
+    "title": "冰与火之歌\n\n                \n                   : （1-5卷：权力的游戏、列王的纷争、冰雨的风暴、群鸦的盛宴、魔龙的狂",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s27218035.jpg",
+    "authorInfo": "[美]乔治·R.R.马丁 / 谭光磊 / 重庆出版社 / 2013-10-1 / 330.00元",
+    "rating": "9.5",
+    "quote": "乔治·R·R·马丁史诗奇幻小说"
+  },
+  {
+    "title": "海风中失落的血色馈赠",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s28061231.jpg",
+    "authorInfo": "[加拿大] 阿利斯泰尔·麦克劳德 / 陈以侃 / 上海文艺出版社 / 2015-6-1 / CNY 20.00",
+    "rating": "9.0",
+    "quote": "男女之间、父母与子女之间紧密的纽带和难以逾越的鸿沟"
+  },
+  {
+    "title": "天朝的崩溃\n\n                \n                   : 鸦片战争再研究",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1681072.jpg",
+    "authorInfo": "茅海建 / 生活·读书·新知三联书店 / 2005-7 / 32.00元",
+    "rating": "9.2",
+    "quote": "鸦片战争再研究"
+  },
+  {
+    "title": "翦商\n\n                \n                   : 殷周之变与华夏新生",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s34385069.jpg",
+    "authorInfo": "李硕 / 广西师范大学出版社 / 2022-10 / 99.00元",
+    "rating": "9.0",
+    "quote": ""
+  },
+  {
+    "title": "情书",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1127135.jpg",
+    "authorInfo": "[日] 岩井俊二 / 穆晓芳 / 天津人民出版社 / 2004-7 / 18.00元",
+    "rating": "8.6",
+    "quote": "一场同名同姓的误会，两段可贵的爱情"
+  },
+  {
+    "title": "天生有罪\n\n                \n                   : 特雷弗·诺亚的变色人生",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s29675003.jpg",
+    "authorInfo": "[南非] 特雷弗·诺亚 / 董帅 / 北京联合出版公司 / 2018-2-1 / 58.00",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "一桩事先张扬的凶杀案",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s26546959.jpg",
+    "authorInfo": "[哥伦比亚] 加西亚·马尔克斯 / 魏然 / 南海出版公司 / 2013-6 / 25.00元",
+    "rating": "8.7",
+    "quote": "我如此急切地想要讲述这桩案件，也许是它最终确定了我的作家生涯"
+  },
+  {
+    "title": "罗生门",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3435158.jpg",
+    "authorInfo": "[日] 芥川龙之介 / 林少华 / 上海译文出版社 / 2008-7 / 12.00元",
+    "rating": "8.7",
+    "quote": "人生，远比地狱更像地狱"
+  },
+  {
+    "title": "孩子你慢慢来",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4124434.jpg",
+    "authorInfo": "龙应台 / 生活·读书·新知三联书店 / 2009-12-1 / 28.00元",
+    "rating": "8.7",
+    "quote": "我们现在怎样做母亲"
+  },
+  {
+    "title": "万物有灵且美",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s4093514.jpg",
+    "authorInfo": "[英] 吉米·哈利 / 种衍伦 / 中国城市出版社 / 2010-1 / 28.80",
+    "rating": "8.9",
+    "quote": "活泼的生命完全无须借助魔法，便能对我们述说至美至真的故事"
+  },
+  {
+    "title": "送你一颗子弹",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s4243447.jpg",
+    "authorInfo": "刘瑜 / 上海三联书店 / 2010-1 / 25.00元",
+    "rating": "8.6",
+    "quote": "在这本书里，被“审视”的东西杂七杂八"
+  },
+  {
+    "title": "浮生六记",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2280094.jpg",
+    "authorInfo": "（清）沈复 / 人民文学出版社 / 1999-1 / 38",
+    "rating": "8.7",
+    "quote": "苟不记之笔墨，未免有辜彼苍之厚"
+  },
+  {
+    "title": "亲密关系（第6版）",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s29497110.jpg",
+    "authorInfo": "[美] 罗兰·米勒 (Rowland S. Miller) / 王伟平 译 / 人民邮电出版社 / 2015-6 / 138.00元",
+    "rating": "9.3",
+    "quote": ""
+  },
+  {
+    "title": "理想国",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s34157889.jpg",
+    "authorInfo": "[古希腊] 柏拉图 / 郭斌和 / 商务印书馆 / 1986-8 / 28.00元",
+    "rating": "8.8",
+    "quote": "人类历史上最早的乌托邦"
+  },
+  {
+    "title": "尼罗河上的惨案",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1683067.jpg",
+    "authorInfo": "[英] 阿加莎·克里斯蒂 / 宫英海 / 人民文学出版社 / 2006-5 / 22.00元",
+    "rating": "8.7",
+    "quote": "阿加莎·克里斯蒂代表作"
+  },
+  {
+    "title": "倚天屠龙记",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s34097535.jpg",
+    "authorInfo": "金庸 / 生活·读书·新知三联书店 / 1999-04 / 47.00",
+    "rating": "8.7",
+    "quote": "不识张郎是张郎"
+  },
+  {
+    "title": "九州·缥缈录",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1520169.jpg",
+    "authorInfo": "江南 / 新世界出版社 / 2005-6 / 20.00元",
+    "rating": "8.8",
+    "quote": "乱世的英雄史诗"
+  },
+  {
+    "title": "荒原狼",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3286369.jpg",
+    "authorInfo": "[德]赫尔曼·黑塞 / 赵登荣 / 上海译文出版社 / 2008-7 / 13.00",
+    "rating": "9.0",
+    "quote": "“超现实主义”风格作品，德国的《尤利西斯》"
+  },
+  {
+    "title": "银河系漫游指南",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3696740.jpg",
+    "authorInfo": "[英] 道格拉斯·亚当斯 / 徐百柯 / 四川科学技术出版社 / 2005-6 / 16.00元",
+    "rating": "8.8",
+    "quote": "一场穿越银河的冒险"
+  },
+  {
+    "title": "从零开始的女性主义",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s33984963.jpg",
+    "authorInfo": "[日本] 上野千鹤子 / 吕灵芝 / 北京联合出版公司 / 2021-9 / 52.00元",
+    "rating": "8.7",
+    "quote": ""
+  },
+  {
+    "title": "雷雨",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s23579217.jpg",
+    "authorInfo": "曹禺 / 人民文学出版社 / 1999-05 / 9.20",
+    "rating": "8.7",
+    "quote": "一幕人生大悲剧，在一个雷雨夜爆发"
+  },
+  {
+    "title": "渴望生活\n\n                \n                   : 梵高传",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3099438.jpg",
+    "authorInfo": "[美] 欧文·斯通 / 常涛 / 北京十月文艺出版社 / 2008-4 / 29.80元",
+    "rating": "9.2",
+    "quote": "梵高悲惨而成就辉煌的人生"
+  },
+  {
+    "title": "雨季不再来",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2563279.jpg",
+    "authorInfo": "三毛 / 北京十月文艺出版社 / 2007-7 / 28.00元",
+    "rating": "8.8",
+    "quote": "三毛少女时代的成长感受"
+  },
+  {
+    "title": "东晋门阀政治",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s10206185.jpg",
+    "authorInfo": "田余庆 / 北京大学出版社 / 2012-5 / 49.00元",
+    "rating": "9.5",
+    "quote": ""
+  },
+  {
+    "title": "雕刻时光",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s28622011.jpg",
+    "authorInfo": "[苏] 安德烈·塔可夫斯基 / 张晓东 / 南海出版公司 / 2016-5 / 45.00元",
+    "rating": "9.5",
+    "quote": ""
+  },
+  {
+    "title": "水浒传（全二册）",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1436519.jpg",
+    "authorInfo": "[明] 施耐庵 / 人民文学出版社 / 1997-1 / 50.60元",
+    "rating": "8.7",
+    "quote": "替天行道"
+  },
+  {
+    "title": "当呼吸化为空气",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s29423902.jpg",
+    "authorInfo": "[美] 保罗·卡拉尼什 / 何雨珈 / 浙江文艺出版社 / 2016-12 / 48.00元",
+    "rating": "8.9",
+    "quote": "你在死亡中探究生命的意义，你见证生前的呼吸化作死后的空气"
+  },
+  {
+    "title": "最好的我们",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s26720726.jpg",
+    "authorInfo": "八月长安 / 湖南文艺出版社 / 2013-8-5 / 55",
+    "rating": "8.7",
+    "quote": "耿耿余淮"
+  },
+  {
+    "title": "生死疲劳",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s34086258.jpg",
+    "authorInfo": "莫言 / 浙江文艺出版社 / 2022-1 / 69.90",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "在细雨中呼喊",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s29032782.jpg",
+    "authorInfo": "余华 / 作家出版社 / 2012-11-1 / 25.00元",
+    "rating": "8.8",
+    "quote": ""
+  },
+  {
+    "title": "一千零一夜",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1070937.jpg",
+    "authorInfo": "纳训 / 人民文学出版社 / 2003-01 / 22.00",
+    "rating": "8.7",
+    "quote": "阿拉伯地区的古代民间传说"
+  },
+  {
+    "title": "骆驼祥子",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1146040.jpg",
+    "authorInfo": "老舍 / 人民文学出版社 / 1962-10-1 / 12.00",
+    "rating": "8.6",
+    "quote": "旧中国老北京贫苦市民的典型命运"
+  },
+  {
+    "title": "孙子兵法",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2142329.jpg",
+    "authorInfo": "孙武 / 郭化若 / 上海古籍出版社 / 2006-7 / 20.00元",
+    "rating": "9.4",
+    "quote": "我国最古老最杰出的一部兵书"
+  },
+  {
+    "title": "你好，旧时光（上 下）",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s4293097.jpg",
+    "authorInfo": "八月长安 / 新世界出版社 / 2009-12 / 39.80元",
+    "rating": "8.7",
+    "quote": "原作名切题"
+  },
+  {
+    "title": "野火集\n\n                \n                   : 二十年纪念版",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s1469589.jpg",
+    "authorInfo": "龙应台 / 文汇出版社 / 2005-8 / 25.00元",
+    "rating": "8.7",
+    "quote": "中国人，你为什么不生气"
+  },
+  {
+    "title": "论语",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s5804746.jpg",
+    "authorInfo": "刘胜利 / 中华书局 / 2006-12 / 9.80元",
+    "rating": "9.1",
+    "quote": "仁远乎哉？我欲仁，斯仁至矣"
+  },
+  {
+    "title": "你一生的故事\n\n                \n                   : 特德·姜科幻小说集",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s28033064.jpg",
+    "authorInfo": "[美] 特德·姜 / 李克勤 / 译林出版社 / 2015-5 / 36.00元",
+    "rating": "8.8",
+    "quote": "特德·姜科幻小说集"
+  },
+  {
+    "title": "父权制与资本主义",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s33723475.jpg",
+    "authorInfo": "[日] 上野千鹤子 / 邹韵 / 浙江大学出版社 / 2020-3 / 58.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "不存在的骑士",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s8972061.jpg",
+    "authorInfo": "[意] 伊塔洛·卡尔维诺 / 吴正仪 / 译林出版社 / 2012-4 / 22.00元",
+    "rating": "8.9",
+    "quote": ""
+  },
+  {
+    "title": "现代艺术150年\n\n                \n                   : 一个未完成的故事",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s29417056.jpg",
+    "authorInfo": "[英] 威尔·贡培兹 / 王烁 / 广西师范大学出版社 / 2017-3 / 65.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "银河帝国：基地七部曲\n\n                \n                   : 百万册纪念版",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s28284246.jpg",
+    "authorInfo": "[美] 艾萨克·阿西莫夫 / 叶李华 / 江苏凤凰文艺出版社 / 2015-10-1 / 328.00元",
+    "rating": "9.5",
+    "quote": "阿西莫夫经典科幻小说"
+  },
+  {
+    "title": "解忧杂货店",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s27264181.jpg",
+    "authorInfo": "[日] 东野圭吾 / 李盈春 / 南海出版公司 / 2014-5 / 39.50元",
+    "rating": "8.5",
+    "quote": "现代人内心流失的东西，这家杂货店能帮你找回"
+  },
+  {
+    "title": "枪炮、病菌与钢铁\n\n                \n                   : 人类社会的命运",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1738643.jpg",
+    "authorInfo": "[美] 贾雷德·戴蒙德 / 谢延光 / 上海译文出版社 / 2006-4-1 / 45.00元",
+    "rating": "8.7",
+    "quote": "人类社会的命运"
+  },
+  {
+    "title": "庄子",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s5765615.jpg",
+    "authorInfo": "孙通海 译注 / 方勇 译注 / 中华书局 / 2007-04 / 20.00元",
+    "rating": "9.4",
+    "quote": "野马也，尘埃也，生物之以息相吹也"
+  },
+  {
+    "title": "象棋的故事",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2897060.jpg",
+    "authorInfo": "[奥] 斯蒂芬·茨威格 / 张玉书 / 上海译文出版社 / 2007-7 / 23.00元",
+    "rating": "9.1",
+    "quote": "纳粹法西斯对人心灵的折磨及摧残"
+  },
+  {
+    "title": "显微镜下的大明",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s29960161.jpg",
+    "authorInfo": "马伯庸 / 湖南文艺出版社 / 2019-1 / 52.00元",
+    "rating": "8.7",
+    "quote": ""
+  },
+  {
+    "title": "顾城的诗",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1024472.jpg",
+    "authorInfo": "顾城 / 人民文学出版社 / 1998-12 / 20.00",
+    "rating": "8.8",
+    "quote": "火焰是我们诗歌唯一的读者"
+  },
+  {
+    "title": "李光耀观天下",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s28095832.jpg",
+    "authorInfo": "李光耀 / 北京大学出版社 / 2015-6 / 58.00元",
+    "rating": "9.2",
+    "quote": ""
+  },
+  {
+    "title": "上学记",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1950424.jpg",
+    "authorInfo": "何兆武 口述 / 生活·读书·新知三联书店 / 2006-8 / 19.80元",
+    "rating": "8.9",
+    "quote": "20世纪中国知识分子的心灵史"
+  },
+  {
+    "title": "火星救援",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s28284337.jpg",
+    "authorInfo": "[美]安迪•威尔 / 陈灼 / 译林出版社 / 2015-10 / 38.00",
+    "rating": "8.9",
+    "quote": "跟火星来一场不是你死就是我活的过家家游戏"
+  },
+  {
+    "title": "二手时间",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s28397415.jpg",
+    "authorInfo": "[白俄] S. A. 阿列克谢耶维奇 / 吕宁思 / 中信出版社 / 2016-1 / 55.00元",
+    "rating": "8.9",
+    "quote": "用最为细小的马赛克拼出了一幅完整的后苏联时代图景"
+  },
+  {
+    "title": "金锁记",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2976745.jpg",
+    "authorInfo": "张爱玲 / 哈尔滨出版社 / 2005-6 / 13.5元",
+    "rating": "8.6",
+    "quote": "一个小商人家庭出身的女子曹七巧的心灵变迁历程"
+  },
+  {
+    "title": "目送",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3984108.jpg",
+    "authorInfo": "龙应台 / 生活·读书·新知三联书店 / 2009-10 / 39.00元",
+    "rating": "8.6",
+    "quote": "不必追"
+  },
+  {
+    "title": "众病之王\n\n                \n                   : 癌症传",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s24598159.jpg",
+    "authorInfo": "[美] 悉达多·穆克吉 / 李虎 / 中信出版社 / 2013-2 / 42.00元",
+    "rating": "9.0",
+    "quote": "癌症传"
+  },
+  {
+    "title": "亲爱的安德烈",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s3993878.jpg",
+    "authorInfo": "龙应台 / 人民文学出版社 / 2008-12 / 26.00",
+    "rating": "8.6",
+    "quote": "弭平代沟，跨越文化阻隔"
+  },
+  {
+    "title": "认识电影\n\n                \n                   : 插图第11版",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s28274132.jpg",
+    "authorInfo": "[美] 路易斯·贾内梯 / 焦雄屏 / 世界图书出版公司 / 2007-11 / 68.00元",
+    "rating": "8.9",
+    "quote": "电影入门经典之作"
+  },
+  {
+    "title": "时间的秩序",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s32332471.jpg",
+    "authorInfo": "[意] 卡洛·罗韦利 / 杨光 / 湖南科学技术出版社 / 2019-6 / 56.00元",
+    "rating": "8.9",
+    "quote": ""
+  },
+  {
+    "title": "分成两半的子爵",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s8972073.jpg",
+    "authorInfo": "[意] 伊塔洛·卡尔维诺 / 吴正仪 / 译林出版社 / 2012-4-1 / 20.00元",
+    "rating": "8.8",
+    "quote": ""
+  },
+  {
+    "title": "毛姆短篇小说精选集",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s24174596.jpg",
+    "authorInfo": "[英] 威廉·萨默塞特·毛姆 / 冯亦代 / 译林出版社 / 2012-11 / 36.00元",
+    "rating": "9.1",
+    "quote": "在各种光怪陆离的场景中，迷失的人性引发了一连串的悲剧"
+  },
+  {
+    "title": "总统是靠不住的\n\n                \n                   : 近距离看美国之二",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s2170316.jpg",
+    "authorInfo": "林达 / 生活·读书·新知三联书店 / 2004-08 / 21.80",
+    "rating": "8.8",
+    "quote": "美国政治法律制度的基本原理和操作细节"
+  },
+  {
+    "title": "夏洛的网",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s1120437.jpg",
+    "authorInfo": "[美] E.B.怀特 / 任溶溶 / 上海译文出版社 / 2004-5 / 17.00元",
+    "rating": "8.6",
+    "quote": "一个蜘蛛和小猪的故事，写给孩子，也写给大人"
+  },
+  {
+    "title": "黑箱：日本之耻",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s30025945.jpg",
+    "authorInfo": "[日] 伊藤诗织 / 匡匡 / 雅众文化/中信出版集团 / 2019-4 / 48.00元",
+    "rating": "8.9",
+    "quote": ""
+  },
+  {
+    "title": "会饮篇",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s25807032.jpg",
+    "authorInfo": "[古希腊] 柏拉图 / 王太庆 / 商务印书馆 / 2013-1 / 12.00元",
+    "rating": "9.3",
+    "quote": ""
+  },
+  {
+    "title": "规训与惩罚\n\n                \n                   : 监狱的诞生",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s2522397.jpg",
+    "authorInfo": "[法] 米歇尔·福柯 / 刘北成 / 生活·读书·新知三联书店 / 2003-1 / 21.80元",
+    "rating": "9.3",
+    "quote": "伴随着惩罚的人性化，自由反而日益丧失了"
+  },
+  {
+    "title": "帷幕\n\n                \n                   : 阿加莎·克里斯蒂侦探作品集33",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s27988902.jpg",
+    "authorInfo": "[英] 阿加莎·克里斯蒂 / 李杨 / 新星出版社 / 2015-2 / 26.00",
+    "rating": "9.1",
+    "quote": ""
+  },
+  {
+    "title": "坟",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2128420.jpg",
+    "authorInfo": "鲁迅 / 人民文学出版社 / 2006-12 / 16.00元",
+    "rating": "9.6",
+    "quote": ""
+  },
+  {
+    "title": "青铜时代\n\n                \n                   : 时代三部曲",
+    "coverImage": "https://img2.doubanio.com/view/subject/s/public/s1072541.jpg",
+    "authorInfo": "王小波 / 花城出版社 / 1997-5 / 29.00元",
+    "rating": "8.8",
+    "quote": "唐人传奇贯注现代情趣"
+  },
+  {
+    "title": "中国哲学简史",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1069364.jpg",
+    "authorInfo": "冯友兰 / 赵复三 / 新世界出版社 / 2004-1 / 38.00元",
+    "rating": "8.9",
+    "quote": "中国哲学入门书"
+  },
+  {
+    "title": "荆棘鸟",
+    "coverImage": "https://img9.doubanio.com/view/subject/s/public/s1073574.jpg",
+    "authorInfo": "[澳] 考琳·麦卡洛 / 曾胡 / 译林出版社 / 1998-7 / 28.00元",
+    "rating": "8.6",
+    "quote": "澳洲乱世情"
+  },
+  {
+    "title": "从一到无穷大\n\n                \n                   : 科学中的事实和臆测",
+    "coverImage": "https://img1.doubanio.com/view/subject/s/public/s2516920.jpg",
+    "authorInfo": "[美] G. 伽莫夫 / 暴永宁 译 / 科学出版社 / 2002-11 / 29.00元",
+    "rating": "9.1",
+    "quote": "科学中的事实和臆测"
+  },
+  {
+    "title": "哈姆莱特",
+    "coverImage": "https://img3.doubanio.com/view/subject/s/public/s27009357.jpg",
+    "authorInfo": "[英] 莎士比亚 / 朱生豪 / 人民文学出版社 / 2001-1 / 7.00元",
+    "rating": "8.7",
+    "quote": "生存还是毁灭，这是一个值得思考的问题"
+  }
+]

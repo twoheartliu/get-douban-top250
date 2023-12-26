@@ -1,0 +1,16 @@
+{
+  "name": "get-douban-top250",
+  "version": "1.0.0",
+  "description": "This is a Node.js project for fetching data from the top 250 lists of books, movies, and music on Douban",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.6.2",
+    "cheerio": "1.0.0-rc.12"
+  }
+}
