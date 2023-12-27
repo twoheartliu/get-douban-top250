@@ -41,14 +41,14 @@ async function fetchAndWriteData(type, itemSelector, dataExtractor, filePath) {
 }
 
 async function getAllData() {
-  await fetchAndWriteData('book', 'tr.item', extractBookData, 'books.json')
+  // await fetchAndWriteData('book', 'tr.item', extractBookData, 'books.json')
   await fetchAndWriteData(
     'movie',
     'li div.item',
     extractMovieData,
     'movies.json'
   )
-  await fetchAndWriteData('music', 'tr.item', extractMusicData, 'musics.json')
+  // await fetchAndWriteData('music', 'tr.item', extractMusicData, 'musics.json')
 }
 
 getAllData()
